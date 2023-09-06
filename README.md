@@ -5,9 +5,11 @@
 | Title  | field | Link |
 | ------------- | ------------- | ----------- |
 |Data Analysis in Medicine and Health using R  | Content Cell  | https://bookdown.org/drki_musa/dataanalysis/             |
-| Content Cell  | Content Cell  |              |
+|  | Content Cell  |              |
+
+## Blog articles
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| AlphaFold 2 is here: what’s behind the structure prediction miracle  | [Content Cell](https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/)https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/  |
 | Content Cell  | Content Cell  |
