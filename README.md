@@ -11,5 +11,5 @@
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| AlphaFold 2 is here: what’s behind the structure prediction miracle  | [Content Cell](https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/)https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/  |
+| AlphaFold 2 is here: what’s behind the structure prediction miracle  | https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/  |
 | Content Cell  | Content Cell  |
