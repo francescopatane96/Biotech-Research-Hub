@@ -18,5 +18,5 @@
 
 | Title  | field | Link |
 | ------------- | ------------- | ----------- |
-| Introduction to RNA-Seq using high-performance computing | Content Cell  | [https://bookdown.org/drki_musa/dataanalysis/](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/)https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/             |
+| Introduction to RNA-Seq using high-performance computing | Content Cell  | https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/)https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/             |
 |  | Content Cell  |              |
