@@ -41,6 +41,15 @@
 | AlphaFold 2 is here: what’s behind the structure prediction miracle  | https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/  |
 | The big problems | https://www.science.org/content/blog-post/big-problems |
 
+##papers
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| Generative models for protein structure: A comparison between Generative Adversarial and Autoregressive networks.| cell | https://webthesis.biblio.polito.it/15944/|
+| | cell | |
+| | cell | |
+| | cell | |
+
 ## Tutorials/guides
 
 | Title  | field | Link |
@@ -57,4 +66,4 @@
 | | cell | |
 | | cell | |
 | | cell | |
-| | cell | |
+
