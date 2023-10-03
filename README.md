@@ -2,7 +2,8 @@
 
 
 ## models/software/pipelines
-
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
 | DeepFRI: Protein function prediction| cell| https://github.com/flatironinstitute/DeepFRI|
 | MSA Transformer: Generate synthetic proteins statistically similar| https://doi.org/10.7554/eLife.79854| cell |
 | GenProSeq: Generating Protein Sequences with Deep Generative Models| cell | GenProSeq: Generating Protein Sequences with Deep Generative Models|
