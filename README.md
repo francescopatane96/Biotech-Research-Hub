@@ -1,13 +1,17 @@
 # MyLib
 
 
-## Biotech models
+## models/software/pipelines
 
 | DeepFRI: Protein function prediction| cell| https://github.com/flatironinstitute/DeepFRI|
-| MSA Transformer: Generate synthetic proteins statistically similar| [cell](https://doi.org/10.7554/eLife.79854)| MSA Transformer: Generate synthetic proteins statistically similar|
-| | cell| |
-| | cell| |
-| | cell| |
+| MSA Transformer: Generate synthetic proteins statistically similar| https://doi.org/10.7554/eLife.79854| MSA Transformer: Generate synthetic proteins statistically similar|
+| GenProSeq: Generating Protein Sequences with Deep Generative Models| cell| GenProSeq: Generating Protein Sequences with Deep Generative Models|
+| ESM models (META/facebook): Evolutionary Scale Modeling.| cell|ESM models (META/facebook): Evolutionary Scale Modeling. |
+| EvoMIL: Prediction of virus-host association. Prediction of virus-host association using protein language models and multiple instance learning | EvoMIL: Prediction of virus-host association. Prediction of virus-host association using protein language models and multiple instance learning | EvoMIL: Prediction of virus-host association. Prediction of virus-host association using protein language models and multiple instance learning |
+| ExamPle: Explainable deep learning framework for the prediction of plant small secreted peptides. | cell| ExamPle: Explainable deep learning framework for the prediction of plant small secreted peptides. |
+| SuMD: Supervised Molecular Dynamics Simulations. | cell|SuMD: Supervised Molecular Dynamics Simulations.  |
+| S4PRED: A tool for accurate prediction of a protein's secondary structure from only its amino acid sequence with no evolutionary information i.e. MSA required| cell| https://github.com/psipred/s4pred|
+| LinearDesign: Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity| cell| https://github.com/LinearDesignSoftware/LinearDesign|
 | | cell| |
 
 ## Useful web-tools
@@ -46,7 +50,7 @@
 | Contact maps| cell | Contact maps|
 | TeachOpenCADD: Virtual screening.| cell | TeachOpenCADD: Virtual screening.|
 | GROMACS tutorial| cell | http://www.mdtutorials.com/gmx/|
-| | cell | |
+|ESM models (META/facebook): Evolutionary Scale Modeling. | cell |ESM models (META/facebook): Evolutionary Scale Modeling. |
 | | cell | |
 | | cell | |
 | | cell | |
