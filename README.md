@@ -19,7 +19,7 @@
 | Title  | field | Link |
 | ------------- | ------------- | ----------- |
 | Introduction to RNA-Seq using high-performance computing | Content Cell  | https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/)https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/  |
-| Introduction to Single-Cell Analysis with Bioconductor Authors: Robert Amezquita [aut], Aaron Lun [aut, cre], Stephanie Hicks [aut], Raphael Gottardo [aut]  | Content Cell  |  https://bioconductor.org/books/release/OSCA/ |
+| Introduction to Single-Cell Analysis with Bioconductor | Content Cell  |  https://bioconductor.org/books/release/OSCA/ |
 |Orchestrating Single-Cell Analysis with Bioconductor Authors: Robert Amezquita [aut], Aaron Lun [aut], Stephanie Hicks [aut], Raphael Gottardo [aut], Alan| cell | Orchestrating Single-Cell Analysis with Bioconductor Authors: Robert Amezquita [aut], Aaron Lun [aut], Stephanie Hicks [aut], Raphael Gottardo [aut], Alan|
 | Development of an Online Laboratory Handbook and Remote Workflow for Chemistry and Pharmacy Master’s Students to Undertake Computer-Aided Drug Design.| cell | Development of an Online Laboratory Handbook and Remote Workflow for Chemistry and Pharmacy Master’s Students to Undertake Computer-Aided Drug Design. |
 | Contact maps| cell | Contact maps|
