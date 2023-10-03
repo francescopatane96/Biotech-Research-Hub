@@ -1,5 +1,15 @@
 # MyLib
 
+
+## Biotech models
+
+| DeepFRI: Protein function prediction| cell| https://github.com/flatironinstitute/DeepFRI|
+| MSA Transformer: Generate synthetic proteins statistically similar| [cell](https://doi.org/10.7554/eLife.79854)| MSA Transformer: Generate synthetic proteins statistically similar|
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+
 ## Useful web-tools
 
 | Title  | field | Link |
