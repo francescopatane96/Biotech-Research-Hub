@@ -3,6 +3,8 @@ Welcome to the Bioinformatics and Biotechnology Resources Hub — a comprehensiv
 
 As resources continue to grow, please use Ctrl-F to search for desired keywords. You can also use Ctrl - to shrink the screen and view more results.
 
+Feel free to customize the hub according to your preferences and needs by forking the repository to your profile. If you wish to contribute to the maintenance or updates of the repository, please create a pull request.
+
 Key Features:
 1. **Workflow Managers (e.g., Nextflow):** Streamline computational analyses with powerful workflow managers.
 2. **Resources for Starting a Company:** Tailored resources to navigate biotech entrepreneurship and kickstart ventures.
