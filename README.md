@@ -89,6 +89,20 @@ Key Features:
 | clusterProfiler| A universal enrichment tool for interpreting omics data| https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html, https://guangchuangyu.github.io/software/clusterProfiler/|
 | pheatmap| A function to draw clustered heatmaps.|https://www.rdocumentation.org/packages/pheatmap/versions/1.0.12/topics/pheatmap |
 | ComplexHeatmap | visualize associations between different sources of data sets and reveal potential patterns.| https://jokergoo.github.io/ComplexHeatmap-reference/book/|
+| heatmaply| similar heatmaps as d3heatmap, with the advantage of speed | https://cran.r-project.org/web/packages/heatmaply/vignettes/heatmaply.html|
+| bibliometrix | nstrument to pursue a complete bibliometric analysis, following the Science Mapping Workflow.| https://www.bibliometrix.org/home/|
+| cowplot| simple add-on to ggplot. It provides various features that help with creating publication-quality figures,| https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html|
+| enrichplot| visualization methods to help interpreting enrichment results| https://yulab-smu.top/biomedical-knowledge-mining-book/enrichplot.html, https://bioconductor.org/packages/release/bioc/html/enrichplot.html|
+| bbmle| Methods and functions for fitting maximum likelihood models|https://cran.r-project.org/web/packages/bbmle/index.html |
+| maaslin2| determining multivariable association between clinical metadata and microbial meta-omics features| https://github.com/biobakery/Maaslin2|
+| seurat | single cell genomics, differential expression|https://satijalab.org/seurat/ |
+| deseq2 | Differential gene expression analysis based on the negative binomial distribution| https://bioconductor.org/packages/release/bioc/html/DESeq2.html, https://lashlock.github.io/compbio/R_presentation.html, https://bioconductor.org/packages/devel/bioc/manuals/DESeq2/man/DESeq2.pdf, https://genviz.org/module-04-expression/0004/02/01/DifferentialExpression/, https://bioc.ism.ac.jp/packages/2.14/bioc/vignettes/DESeq2/inst/doc/beginner.pdf, https://med.und.edu/research/genomics-core/_files/docs/deseq2-handout.pdf, https://blog.bioturing.com/2022/06/02/the-basics-of-deseq2-a-powerful-tool-in-differential-expression-analysis-for-single-cell-rna-seq/, https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html, https://joey711.github.io/phyloseq-extensions/DESeq2.html|
+| edgeR| differential expression in RNA-Seq| https://bioconductor.org/packages/release/bioc/html/edgeR.html, https://bioconductor.org/packages/devel/bioc/vignettes/Glimma/inst/doc/single_cell_edger.html|
+| ggridges| partially overlapping line plots that create the impression of a mountain range (changes in distributions over time or space)| https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html|
+| conflicted| provide an alternative way of resolving conflicts caused by ambiguous function names| https://www.tidyverse.org/blog/2018/06/conflicted/|
+| ggpubr| ‘ggplot2’ Based Publication Ready Plots| https://rpkgs.datanovia.com/ggpubr/|
+| forestplot| allows for multiple confidence intervals per row, custom fonts for each text element, custom confidence intervals, text mixed with expressions, and more.|https://cran.r-project.org/web/packages/forestplot/index.html |
+
 
 
 ## models/software/pipelines
