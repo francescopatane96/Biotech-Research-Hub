@@ -30,9 +30,9 @@
 
 ## podcasts
 
-| Title  | field | Link |
+| Title | field | Link |
 | ------------- | ------------- | ----------- |
-| OncoPharm: latest developments in oncology | cell| https://podcasts.apple.com/us/podcast/oncopharm/id1305345744|
+| OncoPharm: latest developments in oncology | cell | https://podcasts.apple.com/us/podcast/oncopharm/id1305345744|
 |the long run (luke timmerman) | cell| https://podcasts.apple.com/us/podcast/the-long-run-with-luke-timmerman/id1282838969|
 | Mendelspod (diagnostics, genetics and genomic medicine| cell| https://mendelspod.com/|
 | STAT’s weekly biotech podcast, breaking down the latest news, digging deep into industry goings-on| cell| https://www.statnews.com/category/readout-loud/|
