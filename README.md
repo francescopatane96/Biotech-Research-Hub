@@ -1,5 +1,6 @@
 Welcome to the Bioinformatics and Biotechnology Resources Hub — a comprehensive repository designed to empower researchers, scientists, and enthusiasts in the fields of bioinformatics and biotechnology. This repository serves as a one-stop destination for a myriad of invaluable resources, ranging from insightful guides and cutting-edge research papers to informative podcasts, web tools, and efficient workflows.
 
+
 As resources continue to grow, please use Ctrl-F to search for desired keywords. You can also use Ctrl - to shrink the screen and view more results.
 
 Key Features:
