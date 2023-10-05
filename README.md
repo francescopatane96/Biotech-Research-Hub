@@ -36,10 +36,13 @@
 
 ## Blog articles
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| AlphaFold 2 is here: what’s behind the structure prediction miracle  | https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/  |
-| The big problems | https://www.science.org/content/blog-post/big-problems |
+| Title  | field | Link |
+| ------------- | ------------- | ------------|
+| AlphaFold 2 is here: what’s behind the structure prediction miracle  | cell |https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/  |
+| The big problems | cell  | https://www.science.org/content/blog-post/big-problems |
+| Liams' Blog about proteins | Content Cell  |         https://liambai.com/     |
+|  Why we didn’t get a malaria vaccine sooner| Content Cell  |        https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner      |
+|  | Content Cell  |              |
 
 ## papers
 
