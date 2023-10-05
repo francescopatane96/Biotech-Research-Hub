@@ -59,6 +59,18 @@ Key Features:
 |the bioinformatics chat | cell| https://open.spotify.com/show/1adLiZOHtLtrnx6MScTvAX|
 | | cell| |
 
+## Databases
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| uniprot| cell| |
+| IEDB| cell| |
+| uniref| cell| |
+| interpro| cell| |
+| PDB | cell| |
+| Veupathdb | cell| |
+| reactome| pathway database|https://reactome.org/ |
+| | cell| |
 
 ## Informatic Tools/Workflows/languages
 
@@ -119,6 +131,9 @@ Key Features:
 | S4PRED: A tool for accurate prediction of a protein's secondary structure from only its amino acid sequence with no evolutionary information i.e. MSA required| cell| https://github.com/psipred/s4pred|
 | LinearDesign: Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity| cell| https://github.com/LinearDesignSoftware/LinearDesign|
 | gINTomics is an R package for Multi-Omics data integration and visualization| cell| https://github.com/angelovelle96/gINTomics|
+| GSEA| Gene Set Enrichment Analysis| https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideFrame.html|
+| | cell | |
+| | cell | |
 
 ## web-tools
 
@@ -127,8 +142,9 @@ Key Features:
 |VOSviewer: software tool for constructing and visualizing bibliometric networks | Content Cell  | VOSviewer: software tool for constructing and visualizing bibliometric networks |
 |  Consensus: Evidence-Based Answers, Faster| Content Cell  |  |     Consensus: Evidence-Based Answers, Faster       |
 | Connected papers: Explore connected papers in a visual graph| cell| Connected papers: Explore connected papers in a visual graph|
-| | cell| |
-| | cell| |
+| enrichr| comprehensive gene set enrichment analysis web server | https://maayanlab.cloud/Enrichr/|
+| string| Protein-Protein Interaction Networks
+Functional Enrichment Analysis| https://string-db.org/|
 | | cell| |
 
 ## Books
@@ -144,7 +160,7 @@ Key Features:
 | ------------- | ------------- | ------------|
 | codon | cell | https://www.readcodon.com/|
 | Liams' Blog| cell |https://liambai.com/  |
-| | cell | |
+| single cell best practices| cell | https://www.sc-best-practices.org/preamble.html|
 | | cell | |
 | | cell | |
 | | cell | |
@@ -184,9 +200,9 @@ Key Features:
 | GROMACS tutorial| cell | http://www.mdtutorials.com/gmx/|
 |ESM models (META/facebook): Evolutionary Scale Modeling. | cell |ESM models (META/facebook): Evolutionary Scale Modeling. |
 | The Art of Command Line| cell | https://github.com/crazyhottommy/the-art-of-command-line|
-| RNA-seq analysis| cell | https://github.com/crazyhottommy/RNA-seq-analysis|
+| RNA-seq analysis| cell | https://github.com/crazyhottommy/RNA-seq-analysis, https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/06_Gene_set_testing.nb.html|
 | intermediate python | cell | https://github.com/crazyhottommy/intermediatePython|
-| | cell | |
+|gene set enrichment analysis in R | cell |https://bioinformaticsbreakdown.com/how-to-gsea/, https://brb.nci.nih.gov/BRB-ArrayTools/RPackagesAndManuals/GSEA-vignettes.html, https://rpubs.com/jrgonzalezISGlobal/enrichment, https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/ , https://www.biostars.org/p/467197/, https://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/rna-seq-gene-set-testing.nb.html, https://www.sc-best-practices.org/conditions/gsea_pathway.html|
 
 ## wet lab
 
