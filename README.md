@@ -1,5 +1,16 @@
 # MyLib
 
+## workflow managers
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| Nextflow| cell| https://www.nextflow.io/, https://github.com/pmb59/bioinformatics-workflows/tree/master/nextflow, https://www.nextflow.io/docs/latest/index.html, https://nf-co.re/ |
+| Galaxy| cell| https://github.com/pmb59/bioinformatics-workflows/tree/master/galaxy , https://training.galaxyproject.org/training-material/topics/introduction/tutorials/galaxy-intro-101/tutorial.html, https://training.galaxyproject.org/training-material/, https://docs.galaxyproject.org/en/master/|
+| Snakemake| cell|https://github.com/pmb59/bioinformatics-workflows/tree/master/snakemake, https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html, https://snakemake.readthedocs.io/en/stable/ |
+| SciPipe| cell| https://github.com/pmb59/bioinformatics-workflows/tree/master/scipipe, https://scipipe.org/writing_workflows/,https://scipipe.org/ |
+| GenPipes| cell| https://github.com/pmb59/bioinformatics-workflows/tree/master/genpipes, https://genpipes.readthedocs.io/en/master/tutorials/list_tutorials.html, https://genpipes.readthedocs.io/en/master/index.html|
+| Bpipe | cell| https://github.com/pmb59/bioinformatics-workflows/tree/master/bpipe|
+
+
 ## Informatic Tools/Workflows/languages
 
 | Title  | field | Link |
@@ -56,6 +67,10 @@
 | The big problems | cell  | https://www.science.org/content/blog-post/big-problems |
 | Liams' Blog about proteins | Content Cell  |         https://liambai.com/     |
 |  Why we didn’t get a malaria vaccine sooner| Content Cell  |        https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner      |
+| How to represent a protein sequence | Content Cell  |      https://liambai.com/protein-representation/        |
+| What we can learn from evolving proteins | Content Cell  |       https://liambai.com/protein-evolution/       |
+|  | Content Cell  |              |
+|  | Content Cell  |              |
 |  | Content Cell  |              |
 
 ## papers
