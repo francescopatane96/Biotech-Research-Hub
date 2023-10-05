@@ -64,7 +64,6 @@ Key Features:
 
 | Title  | field | Link |
 | ------------- | ------------- | ----------- |
-| Nextflow: Data-driven computational pipelines | cell| https://www.nextflow.io/|
 | Python | cell| https://www.python.org/|
 | R | cell| https://www.r-project.org/|
 | Bioconductor | cell| https://www.bioconductor.org/ |
@@ -73,6 +72,23 @@ Key Features:
 | How to make your research data more FAIR| cell| https://howtofair.dk/|
 | | cell| |
 | | cell| |
+
+## R libraries
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| ggplate| create simple plots of biological culture plates as well as microplates. | https://github.com/jpquast/ggplate|
+| Tidyverse| collection of R packages designed for data science| https://www.tidyverse.org/|
+| ggplot2| graphics| https://ggplot2.tidyverse.org/|
+| caret | set of functions that attempt to streamline the process for creating predictive models.| https://topepo.github.io/caret/|
+| patchwork | combine separate ggplots into the same graphic| https://patchwork.data-imaginist.com/|
+| ggstatsplot | Based Plots with Statistical Details|https://indrajeetpatil.github.io/ggstatsplot/ |
+| ggextra| collection of functions and layers to enhance ggplot2| https://cran.r-project.org/web/packages/ggExtra/vignettes/ggExtra.html|
+| ggrepel| geoms for ggplot2 to repel overlapping text labels| https://ggrepel.slowkow.com/articles/examples.html|
+| ggthemes |Provides 'ggplot2' themes and scales that replicate the look of plots by Edward Tufte, Stephen Few, 'Fivethirtyeight', 'The Economist', 'Stata', 'Excel', and 'The Wall Street Journal', among others| https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggthemes/|
+| clusterProfiler| A universal enrichment tool for interpreting omics data| https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html, https://guangchuangyu.github.io/software/clusterProfiler/|
+| pheatmap| A function to draw clustered heatmaps.|https://www.rdocumentation.org/packages/pheatmap/versions/1.0.12/topics/pheatmap |
+| ComplexHeatmap | visualize associations between different sources of data sets and reveal potential patterns.| https://jokergoo.github.io/ComplexHeatmap-reference/book/|
 
 
 ## models/software/pipelines
