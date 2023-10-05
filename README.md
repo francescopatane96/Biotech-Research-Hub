@@ -1,5 +1,19 @@
 # MyLib
 
+## Informatic Tools/Workflows/languages
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| Nextflow: Data-driven computational pipelines | cell| https://www.nextflow.io/|
+| Python | cell| https://www.python.org/|
+| R | cell| https://www.r-project.org/|
+| Bioconductor | cell| https://www.bioconductor.org/ |
+| PyTorch: Deep learning library for python| cell| https://pytorch.org/|
+| D3: The JavaScript library for bespokedata visualization| cell| https://d3js.org/|
+| | cell| |
+| | cell| |
+| | cell| |
+
 
 ## models/software/pipelines
 
@@ -14,7 +28,7 @@
 | SuMD: Supervised Molecular Dynamics Simulations. | cell|SuMD: Supervised Molecular Dynamics Simulations.  |
 | S4PRED: A tool for accurate prediction of a protein's secondary structure from only its amino acid sequence with no evolutionary information i.e. MSA required| cell| https://github.com/psipred/s4pred|
 | LinearDesign: Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity| cell| https://github.com/LinearDesignSoftware/LinearDesign|
-| | cell| |
+| gINTomics is an R package for Multi-Omics data integration and visualization| cell| https://github.com/angelovelle96/gINTomics|
 
 ## Useful web-tools
 
@@ -65,8 +79,8 @@
 | TeachOpenCADD: Virtual screening.| cell | TeachOpenCADD: Virtual screening.|
 | GROMACS tutorial| cell | http://www.mdtutorials.com/gmx/|
 |ESM models (META/facebook): Evolutionary Scale Modeling. | cell |ESM models (META/facebook): Evolutionary Scale Modeling. |
-| | cell | |
-| | cell | |
+| The Art of Command Line| cell | https://github.com/crazyhottommy/the-art-of-command-line|
+| RNA-seq analysis| cell | https://github.com/crazyhottommy/RNA-seq-analysis|
 | | cell | |
 | | cell | |
 
