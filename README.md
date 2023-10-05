@@ -203,6 +203,12 @@ Functional Enrichment Analysis| https://string-db.org/|
 | RNA-seq analysis| cell | https://github.com/crazyhottommy/RNA-seq-analysis, https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/06_Gene_set_testing.nb.html|
 | intermediate python | cell | https://github.com/crazyhottommy/intermediatePython|
 |gene set enrichment analysis in R | cell |https://bioinformaticsbreakdown.com/how-to-gsea/, https://brb.nci.nih.gov/BRB-ArrayTools/RPackagesAndManuals/GSEA-vignettes.html, https://rpubs.com/jrgonzalezISGlobal/enrichment, https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/ , https://www.biostars.org/p/467197/, https://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/rna-seq-gene-set-testing.nb.html, https://www.sc-best-practices.org/conditions/gsea_pathway.html|
+| Reactome enrichment analysis| cell | http://yulab-smu.top/biomedical-knowledge-mining-book/reactomepa.html|
+| | cell | |
+| | cell | |
+| | cell | |
+| | cell | |
+| | cell | |
 
 ## wet lab
 
