@@ -60,13 +60,23 @@
 |Data Analysis in Medicine and Health using R  | Content Cell  | https://bookdown.org/drki_musa/dataanalysis/             |
 |  | Content Cell  |              |
 
+## Blogs
+
+| Title  | field | Link |
+| ------------- | ------------- | ------------|
+| codon | cell | https://www.readcodon.com/|
+| Liams' Blog| cell |https://liambai.com/  |
+| | cell | |
+| | cell | |
+| | cell | |
+| | cell | |
+
 ## Blog articles
 
 | Title  | field | Link |
 | ------------- | ------------- | ------------|
 | AlphaFold 2 is here: what’s behind the structure prediction miracle  | cell |https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/  |
 | The big problems | cell  | https://www.science.org/content/blog-post/big-problems |
-| Liams' Blog about proteins | Content Cell  |         https://liambai.com/     |
 |  Why we didn’t get a malaria vaccine sooner| Content Cell  |        https://worksinprogress.co/issue/why-we-didnt-get-a-malaria-vaccine-sooner      |
 | How to represent a protein sequence | Content Cell  |      https://liambai.com/protein-representation/        |
 | What we can learn from evolving proteins | Content Cell  |       https://liambai.com/protein-evolution/       |
@@ -97,6 +107,15 @@
 |ESM models (META/facebook): Evolutionary Scale Modeling. | cell |ESM models (META/facebook): Evolutionary Scale Modeling. |
 | The Art of Command Line| cell | https://github.com/crazyhottommy/the-art-of-command-line|
 | RNA-seq analysis| cell | https://github.com/crazyhottommy/RNA-seq-analysis|
+| | cell | |
+| | cell | |
+
+## wet lab
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| basic methods | cell | https://www.youtube.com/@csberg5856/videos|
+| | cell | |
 | | cell | |
 | | cell | |
 
