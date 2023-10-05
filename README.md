@@ -12,6 +12,34 @@
 | Bpipe | cell| https://github.com/pmb59/bioinformatics-workflows/tree/master/bpipe|
 
 
+## Resources for starting a company
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| biotech resources | cell| https://github.com/crazyhottommy/biotech_resource|
+| Companies Innovating in Biotech| cell| https://www.biotech2k.com/companies/companies.html|
+| So You Want to Start a Biotech: A Bioinformatics Approach That Works A blog post by Michele Busby. | cell| https://michelebusby.tumblr.com/post/643211974587629568/so-you-want-to-start-a-biotech-a-bioinformatics|
+| Nextflow | cell| https://medium.com/23andme-engineering/introduction-to-nextflow-4d0e3b6768d1|
+| How Novo Nordisk built a modern data architecture on AWS| cell| https://aws.amazon.com/blogs/big-data/how-novo-nordisk-built-a-modern-data-architecture-on-aws/|
+| zettlr| cell| https://zettlr.com/|
+|Modern biotech data infrastructure | cell| http://blog.booleanbiotech.com/biotech-data-infrastructure.html|
+| The digital biotech startup playbook| cell|https://medium.com/@jfeala/the-digital-biotech-startup-playbook-398aeafca8a4 |
+| | cell| |
+| | cell| |
+| | cell| |
+
+## podcasts
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| OncoPharm: latest developments in oncology | cell| https://podcasts.apple.com/us/podcast/oncopharm/id1305345744|
+|the long run (luke timmerman) | cell| https://podcasts.apple.com/us/podcast/the-long-run-with-luke-timmerman/id1282838969|
+| Mendelspod (diagnostics, genetics and genomic medicine| cell| https://mendelspod.com/|
+| STAT’s weekly biotech podcast, breaking down the latest news, digging deep into industry goings-on| cell| https://www.statnews.com/category/readout-loud/|
+|the bioinformatics chat | cell| https://open.spotify.com/show/1adLiZOHtLtrnx6MScTvAX|
+| | cell| |
+
+
 ## Informatic Tools/Workflows/languages
 
 | Title  | field | Link |
@@ -22,7 +50,7 @@
 | Bioconductor | cell| https://www.bioconductor.org/ |
 | PyTorch: Deep learning library for python| cell| https://pytorch.org/|
 | D3: The JavaScript library for bespokedata visualization| cell| https://d3js.org/|
-| | cell| |
+| How to make your research data more FAIR| cell| https://howtofair.dk/|
 | | cell| |
 | | cell| |
 
@@ -42,7 +70,7 @@
 | LinearDesign: Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity| cell| https://github.com/LinearDesignSoftware/LinearDesign|
 | gINTomics is an R package for Multi-Omics data integration and visualization| cell| https://github.com/angelovelle96/gINTomics|
 
-## Useful web-tools
+## web-tools
 
 | Title  | field | Link |
 | ------------- | ------------- | ----------- |
@@ -107,7 +135,7 @@
 |ESM models (META/facebook): Evolutionary Scale Modeling. | cell |ESM models (META/facebook): Evolutionary Scale Modeling. |
 | The Art of Command Line| cell | https://github.com/crazyhottommy/the-art-of-command-line|
 | RNA-seq analysis| cell | https://github.com/crazyhottommy/RNA-seq-analysis|
-| | cell | |
+| intermediate python | cell | https://github.com/crazyhottommy/intermediatePython|
 | | cell | |
 
 ## wet lab
@@ -118,4 +146,14 @@
 | | cell | |
 | | cell | |
 | | cell | |
+
+## Communities
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+| Rosalind (forum and platform for learning bioinformatics)| cell | https://rosalind.info/problems/list-view/, solutions: https://github.com/crazyhottommy/rosalind_problems_python_solutions|
+| | cell | |
+| | cell | |
+| | cell | |
+
 
