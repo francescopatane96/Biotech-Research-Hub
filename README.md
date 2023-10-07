@@ -48,6 +48,17 @@ Key Features:
 | | cell| |
 | | cell| |
 
+## Library repos
+
+| Title | field | Link |
+| ------------- | ------------- | ----------- |
+|Bancroft Library · Oral History Center · Projects; Bioscience and Biotechnology | cell| https://www.lib.berkeley.edu/visit/bancroft/oral-history-center/projects/bioscience|
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+
 ## podcasts
 
 | Title | field | Link |
@@ -237,6 +248,10 @@ Functional Enrichment Analysis| https://string-db.org/|
 | bioinformatics workshops| cell |https://bioinformatics.ca/workshops/previous-workshops/ |
 |SIB tutorials about bioinformatics | cell | https://edu.sib.swiss/|
 |Microarray Analysis | cell | http://barc.wi.mit.edu/education/bioinfo2007/arrays/|
+| Kaggle's tutorials on machine learning, deep learning, data analysis | cell | https://www.kaggle.com/learn|
+|pytorch tutorials | cell |https://pytorch.org/tutorials/ |
+|pytorch basics | cell |https://pytorch.org/tutorials/beginner/basics/intro.html, https://pytorch.org/tutorials/beginner/pytorch_with_examples.html |
+|ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF | cell | https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html|
 | | cell | |
 
 ## Interesting labs
