@@ -101,7 +101,13 @@ Key Features:
 | Title  | field | Link |
 | ------------- | ------------- | ----------- |
 |iFeature: generation of protein descriptors | cell| https://github.com/Superzchen/iFeature|
-| | cell| |
+|pandas | cell| |
+|numpy | cell| |
+|rdkit | cell| |
+| pytorch| cell| |
+|tensorflow | cell| |
+|keras | cell| |
+|scikit learn | cell| |
 | | cell| |
 | | cell| |
 | | cell| |
