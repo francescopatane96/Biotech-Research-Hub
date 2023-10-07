@@ -196,7 +196,7 @@ Functional Enrichment Analysis| https://string-db.org/|
 |Orchestrating Single-Cell Analysis with Bioconductor Authors: Robert Amezquita [aut], Aaron Lun [aut], Stephanie Hicks [aut], Raphael Gottardo [aut], Alan| cell | Orchestrating Single-Cell Analysis with Bioconductor Authors: Robert Amezquita [aut], Aaron Lun [aut], Stephanie Hicks [aut], Raphael Gottardo [aut], Alan|
 | Development of an Online Laboratory Handbook and Remote Workflow for Chemistry and Pharmacy Master’s Students to Undertake Computer-Aided Drug Design.| cell | Development of an Online Laboratory Handbook and Remote Workflow for Chemistry and Pharmacy Master’s Students to Undertake Computer-Aided Drug Design. |
 | Contact maps| cell | Contact maps|
-| TeachOpenCADD: Virtual screening.| cell | TeachOpenCADD: Virtual screening.|
+| TeachOpenCADD: Virtual screening.| cell | https://projects.volkamerlab.org/teachopencadd/all_talktorials.html, https://volkamerlab.org/projects/teachopencadd/|
 | GROMACS tutorial| cell | http://www.mdtutorials.com/gmx/|
 |ESM models (META/facebook): Evolutionary Scale Modeling. | cell |ESM models (META/facebook): Evolutionary Scale Modeling. |
 | The Art of Command Line| cell | https://github.com/crazyhottommy/the-art-of-command-line|
@@ -204,11 +204,21 @@ Functional Enrichment Analysis| https://string-db.org/|
 | intermediate python | cell | https://github.com/crazyhottommy/intermediatePython|
 |gene set enrichment analysis in R | cell |https://bioinformaticsbreakdown.com/how-to-gsea/, https://brb.nci.nih.gov/BRB-ArrayTools/RPackagesAndManuals/GSEA-vignettes.html, https://rpubs.com/jrgonzalezISGlobal/enrichment, https://learn.gencore.bio.nyu.edu/rna-seq-analysis/gene-set-enrichment-analysis/ , https://www.biostars.org/p/467197/, https://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/rna-seq-gene-set-testing.nb.html, https://www.sc-best-practices.org/conditions/gsea_pathway.html|
 | Reactome enrichment analysis| cell | http://yulab-smu.top/biomedical-knowledge-mining-book/reactomepa.html|
+|Analysis of single cell RNA-seq data | cell |https://www.singlecellcourse.org/, https://hbctraining.github.io/scRNA-seq/, https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/, https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-intro/slides-plain.html |
+|Next-Generation Sequencing Analysis Resources | cell |https://learn.gencore.bio.nyu.edu/ |
 | | cell | |
 | | cell | |
 | | cell | |
+
+## Interesting labs
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+|volkamer lab | cell | https://volkamerlab.org/research/|
 | | cell | |
 | | cell | |
+
+
 
 ## wet lab
 
