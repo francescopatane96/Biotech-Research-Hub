@@ -206,8 +206,19 @@ Functional Enrichment Analysis| https://string-db.org/|
 | Reactome enrichment analysis| cell | http://yulab-smu.top/biomedical-knowledge-mining-book/reactomepa.html|
 |Analysis of single cell RNA-seq data | cell |https://www.singlecellcourse.org/, https://hbctraining.github.io/scRNA-seq/, https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/, https://training.galaxyproject.org/training-material/topics/single-cell/tutorials/scrna-intro/slides-plain.html |
 |Next-Generation Sequencing Analysis Resources | cell |https://learn.gencore.bio.nyu.edu/ |
-| | cell | |
-| | cell | |
+| single cell best practices| cell | https://www.sc-best-practices.org/preamble.html, https://github.com/theislab/single-cell-best-practices/tree/development|
+|Bioinformatics Education and Tutorials | cell | https://bioinformaticshome.com/bioinformatics_tutorials/tutorials_main.html, https://www.hadriengourle.com/tutorials/, https://ghtf.biochem.uci.edu/bioinformatics-tutorials/, https://www.melbournebioinformatics.org.au/tutorials/, https://libguides.marquette.edu/c.php?g=36753&p=233518, https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/, https://abacus.bates.edu/bioinformatics1/, https://www.embl.org/ells/teachingbase/dna-barcoding-resource/bioinformatics-tutorials/|
+| NAMD and VMD for molecular dynamics| cell |http://www.ks.uiuc.edu/Training/Tutorials/#namd, http://www.ks.uiuc.edu/Training/Tutorials/#vmd |
+|NGS: illumina | cell |https://emea.illumina.com/science/technology/next-generation-sequencing/beginners/tutorials.html |
+|Introduction to Long-Read Data Analysis | cell |https://timkahlke.github.io/LongRead_tutorials/ |
+|Galaxy Training | cell |https://training.galaxyproject.org/ |
+|bioinfo guided tutorial | cell |https://www.angelfire.com/ga2/nestsite2/bioinform.html, http://lectures.molgen.mpg.de/ |
+| Getting started with bioinformatics| cell |https://riptutorial.com/bioinformatics |
+| Free online courses in Bioinformatics| cell |https://ethz.ch/content/dam/ethz/special-interest/biol/department/Bioinformatics%20courses.pdf |
+| NGS alignment and variant calling| cell | https://github.com/ekg/alignment-and-variant-calling-tutorial|
+| bioinformatics workshops| cell |https://bioinformatics.ca/workshops/previous-workshops/ |
+|SIB tutorials about bioinformatics | cell | https://edu.sib.swiss/|
+|Microarray Analysis | cell | http://barc.wi.mit.edu/education/bioinfo2007/arrays/|
 | | cell | |
 
 ## Interesting labs
@@ -234,7 +245,7 @@ Functional Enrichment Analysis| https://string-db.org/|
 | Title  | field | Link |
 | ------------- | ------------- | ----------- |
 | Rosalind (forum and platform for learning bioinformatics)| cell | https://rosalind.info/problems/list-view/, solutions: https://github.com/crazyhottommy/rosalind_problems_python_solutions|
-| | cell | |
+| biostars | cell | https://www.biostars.org/|
 | | cell | |
 | | cell | |
 
