@@ -85,6 +85,17 @@ Key Features:
 | | cell| |
 | | cell| |
 
+## Python libraries
+
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+|iFeature: generation of protein descriptors | cell| https://github.com/Superzchen/iFeature|
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+
 ## R libraries
 
 | Title  | field | Link |
@@ -115,7 +126,14 @@ Key Features:
 | ggpubr| ‘ggplot2’ Based Publication Ready Plots| https://rpkgs.datanovia.com/ggpubr/|
 | forestplot| allows for multiple confidence intervals per row, custom fonts for each text element, custom confidence intervals, text mixed with expressions, and more.|https://cran.r-project.org/web/packages/forestplot/index.html |
 
+## large protein language models
 
+| Title  | field | Link |
+| ------------- | ------------- | ----------- |
+|ESM2 | cell | |
+|protT5| cell | |
+| | cell | |
+| | cell | |
 
 ## models/software/pipelines
 
