@@ -132,7 +132,7 @@ Key Features:
 | LinearDesign: Algorithm for Optimized mRNA Design Improves Stability and Immunogenicity| cell| https://github.com/LinearDesignSoftware/LinearDesign|
 | gINTomics is an R package for Multi-Omics data integration and visualization| cell| https://github.com/angelovelle96/gINTomics|
 | GSEA| Gene Set Enrichment Analysis| https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideFrame.html|
-| | cell | |
+| Enformer: Effective gene expression prediction from sequence by integrating long-range interactions | [cell](https://github.com/lucidrains/enformer-pytorch) |https://www.nature.com/articles/s41592-021-01252-x |
 | | cell | |
 
 ## web-tools
