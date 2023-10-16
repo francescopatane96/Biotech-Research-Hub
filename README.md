@@ -258,7 +258,7 @@ Functional Enrichment Analysis| https://string-db.org/|
 |pytorch tutorials | cell |https://pytorch.org/tutorials/ |
 |pytorch basics | cell |https://pytorch.org/tutorials/beginner/basics/intro.html, https://pytorch.org/tutorials/beginner/pytorch_with_examples.html |
 |ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF | cell | https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html|
-| RNA-seq| **** |https://scienceparkstudygroup.github.io/rna-seq-lesson/ |
+| RNA-seq | **** | https://scienceparkstudygroup.github.io/rna-seq-lesson/ |
 
 ## Interesting labs
 
