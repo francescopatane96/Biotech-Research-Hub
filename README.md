@@ -30,8 +30,8 @@ Key Features:
 | Seurat | cell| https://satijalab.org/seurat/articles/get_started|
 | Scanpy | cell|https://scanpy.readthedocs.io/en/stable/ |
 | single cell best practices| cell| https://www.sc-best-practices.org/preamble.html|
-| | cell| |
-| | cell| |
+| Complete single-cell RNAseq analysis walkthrough - scanpy | Advanced introduction| cell| https://www.youtube.com/watch?v=uvyG9yLuNSE&t=2561s|
+| How to analyze single-cell RNA-Seq data in R | Detailed Seurat Workflow Tutorial| cell| https://www.youtube.com/watch?v=5HBzgsz8qyk|
 | | cell| |
 | | cell| |
 
