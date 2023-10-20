@@ -20,6 +20,22 @@ Key Features:
 12. **Wet Lab:** Resources tailored to experimental research and methodologies in wet lab environments.
 13. **Communities/Forums/Learning Platforms:** Connect, collaborate, and learn through vibrant communities, forums, and dedicated platforms.
 
+# single cell rna seq
+
+| Title | field | Link |
+| ------------- | ------------- | ----------- |
+| Orchestrating Single-Cell Analysis with Bioconductor| cell| https://bioconductor.org/books/release/OSCA/|
+| Analysis of single cell RNA-seq data| cell| https://www.singlecellcourse.org/index.html|
+|HGNC | cell| https://www.genenames.org/|
+| Seurat | cell| https://satijalab.org/seurat/articles/get_started|
+| Scanpy | cell|https://scanpy.readthedocs.io/en/stable/ |
+| single cell best practices| cell| https://www.sc-best-practices.org/preamble.html|
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+
+
 ## workflow managers
 
 | Title  | field | Link |
