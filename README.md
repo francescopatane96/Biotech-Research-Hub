@@ -32,9 +32,36 @@ Key Features:
 | single cell best practices| cell| https://www.sc-best-practices.org/preamble.html|
 | Complete single-cell RNAseq analysis walkthrough - scanpy, Advanced introduction| cell| https://www.youtube.com/watch?v=uvyG9yLuNSE&t=2561s|
 | How to analyze single-cell RNA-Seq data in R, Detailed Seurat Workflow Tutorial| cell| https://www.youtube.com/watch?v=5HBzgsz8qyk|
+|Using SingleR to annotate single-cell RNA-seq data | cell| https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html|
+| An introduction to the SingleCellExperiment class| cell| https://www.bioconductor.org/packages/devel/bioc/vignettes/SingleCellExperiment/inst/doc/intro.html|
+| Introduction to Single-Cell Analysis with Bioconductor| cell|https://bioconductor.org/books/3.13/OSCA.intro/ |
+| Orchestrating Single-Cell Analysis with Bioconductor| cell|https://bioconductor.org/books/3.13/OSCA/ |
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
 | | cell| |
 | | cell| |
 
+# bulk rna seq
+
+| Title | field | Link |
+| ------------- | ------------- | ----------- |
+| David PEA pathway enrichment analysis (functional annotation)| cell| https://david.ncifcrf.gov/tools.jsp|
+| QIAGEN Ingenuity Pathway Analysis (QIAGEN IPA)| cell| https://digitalinsights.qiagen.com/products-overview/discovery-insights-portfolio/analysis-and-visualization/qiagen-ipa/|
+|clusterprofiler | cell| https://yulab-smu.top/biomedical-knowledge-mining-book/index.html|
+| Analyzing RNA-seq data with DESeq2| cell| https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html|
+| Linear Models for Microarray and RNA-Seq Data
+User’s Guide| cell| https://bioconductor.org/packages/devel/bioc/vignettes/limma/inst/doc/usersguide.pdf|
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
+| | cell| |
 
 ## workflow managers
 
