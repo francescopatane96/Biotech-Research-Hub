@@ -20,6 +20,17 @@ Key Features:
 12. **Wet Lab:** Resources tailored to experimental research and methodologies in wet lab environments.
 13. **Communities/Forums/Learning Platforms:** Connect, collaborate, and learn through vibrant communities, forums, and dedicated platforms.
 
+network science by albert laszlo barabasi - http://networksciencebook.com/
+[18] R. Pastor-Satorras and A.Vespignani. Epidemic spreading in scalefree networks. Physical Review Letters, 86:3200–3203, 2001.
+
+[19] R. Albert and A.-L. Barabási. Statistical Mechanics of Complex Networks. Reviews of Modern Physics, 74: 47, 2002.
+
+[20] H. Jeong, B. Tombor, R. Albert, Z.N. Oltvai, and A.-L. Barabási . The large-scale organization of metabolic networks. Nature, 407:651–655, 2000.
+
+[21] H. Jeong, S. P. Mason, A.-L. Barabási, and Z.N. Oltvai. Lethality and centrality in protein networks. Nature, 411:41-42, 2001.
+
+[22] A.-L. Barabási, and Z.N. Oltvai. Network biology: understanding the cell’s functional organization. Nature Reviews Genetics, 5:101-113, 2004.
+
 # single cell rna seq
 
 | Title | field | Link |
