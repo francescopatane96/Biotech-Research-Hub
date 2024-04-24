@@ -48,7 +48,7 @@ network science by albert laszlo barabasi - http://networksciencebook.com/
 | Introduction to Single-Cell Analysis with Bioconductor| cell|https://bioconductor.org/books/3.13/OSCA.intro/ |
 | Orchestrating Single-Cell Analysis with Bioconductor| cell|https://bioconductor.org/books/3.13/OSCA/ |
 | Assigning single-cells to known cell types with CellAssign| cell| https://irrationone.github.io/cellassign/articles/introduction-to-cellassign.html|
-| | cell| |
+| https://www.biostars.org/p/9576725/#9576733| cell| batch effects |
 | | cell| |
 | | cell| |
 | | cell| |
