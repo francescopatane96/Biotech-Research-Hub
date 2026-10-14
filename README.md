@@ -203,7 +203,7 @@ User’s Guide| cell| https://bioconductor.org/packages/devel/bioc/vignettes/lim
 | ------------- | ------------- | ----------- |
 |ESM2 | cell | |
 |protT5| cell | |
-| | cell | |
+| Calder Brief | biotech news | https://calder-brief.pages.dev/biotech-hub.html |
 | | cell | |
 
 ## models/software/pipelines
